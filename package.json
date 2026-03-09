@@ -1,0 +1,17 @@
+{
+  "name": "handonweb-uk-business-hours",
+  "version": "1.0.0",
+  "description": "Check if a UK business is currently open. Handles custom hours, lunch breaks, and bank holidays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": ["business-hours", "uk", "open", "closed", "bank-holidays", "opening-times"],
+  "author": "Hand On Web Ltd <outreach@handonweb.com> (https://www.handonweb.com)",
+  "license": "MIT",
+  "homepage": "https://www.handonweb.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hand-On-Web-Ltd/handonweb-uk-business-hours.git"
+  }
+}
